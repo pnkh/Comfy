@@ -1,7 +1,7 @@
 {
     "version":  1,
-    "online":  true,
-    "endpoint":  "https://convicted-publications-montreal-puzzle.trycloudflare.com",
-    "updatedAt":  "2026-07-31T14:25:56.3949877Z",
+    "online":  false,
+    "endpoint":  "",
+    "updatedAt":  "2026-07-31T14:27:28.2736169Z",
     "source":  "Comfy Mobile Center"
 }
