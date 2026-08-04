@@ -1,7 +1,7 @@
 {
     "version":  1,
-    "online":  false,
-    "endpoint":  "",
-    "updatedAt":  "2026-08-04T15:59:41.2992795Z",
+    "online":  true,
+    "endpoint":  "https://frequent-marina-racks-warranties.trycloudflare.com",
+    "updatedAt":  "2026-08-04T16:00:17.2429967Z",
     "source":  "Comfy Mobile Center"
 }
