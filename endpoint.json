@@ -1,7 +1,7 @@
 {
     "version":  1,
-    "online":  true,
-    "endpoint":  "https://chelsea-plug-already-trips.trycloudflare.com",
-    "updatedAt":  "2026-08-04T15:03:06.5565355Z",
+    "online":  false,
+    "endpoint":  "",
+    "updatedAt":  "2026-08-04T15:15:43.9973163Z",
     "source":  "Comfy Mobile Center"
 }
