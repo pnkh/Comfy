@@ -1,7 +1,7 @@
 {
     "version":  1,
-    "online":  true,
-    "endpoint":  "https://congress-onion-rna-progressive.trycloudflare.com",
-    "updatedAt":  "2026-08-04T09:46:16.1257384Z",
+    "online":  false,
+    "endpoint":  "",
+    "updatedAt":  "2026-08-04T15:02:18.1074072Z",
     "source":  "Comfy Mobile Center"
 }
