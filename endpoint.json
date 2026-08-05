@@ -1,7 +1,7 @@
 {
     "version":  1,
-    "online":  true,
-    "endpoint":  "https://chan-meets-want-perspectives.trycloudflare.com",
-    "updatedAt":  "2026-08-05T02:20:09.5741009Z",
+    "online":  false,
+    "endpoint":  "",
+    "updatedAt":  "2026-08-05T05:07:05.6156369Z",
     "source":  "Comfy Mobile Center"
 }
