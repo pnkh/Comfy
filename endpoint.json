@@ -1,7 +1,7 @@
 {
     "version":  1,
-    "online":  false,
-    "endpoint":  "",
-    "updatedAt":  "2026-08-06T17:09:01.8547003Z",
+    "online":  true,
+    "endpoint":  "https://pas-fusion-introduce-environment.trycloudflare.com",
+    "updatedAt":  "2026-08-06T17:09:14.8922556Z",
     "source":  "Comfy Mobile Center"
 }
