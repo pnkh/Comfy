@@ -1,7 +1,7 @@
 {
     "version":  1,
-    "online":  false,
-    "endpoint":  "",
-    "updatedAt":  "2026-08-06T16:43:51.3287694Z",
+    "online":  true,
+    "endpoint":  "https://pale-yield-celebration-martin.trycloudflare.com",
+    "updatedAt":  "2026-08-06T16:44:53.8795840Z",
     "source":  "Comfy Mobile Center"
 }
