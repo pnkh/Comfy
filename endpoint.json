@@ -1,7 +1,7 @@
 {
     "version":  1,
-    "online":  true,
-    "endpoint":  "https://cattle-excluding-puerto-javascript.trycloudflare.com",
-    "updatedAt":  "2026-08-06T16:39:59.3103319Z",
+    "online":  false,
+    "endpoint":  "",
+    "updatedAt":  "2026-08-06T16:43:51.3287694Z",
     "source":  "Comfy Mobile Center"
 }
