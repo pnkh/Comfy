@@ -1,7 +1,7 @@
 {
     "version":  1,
-    "online":  true,
-    "endpoint":  "https://convergence-dot-das-communist.trycloudflare.com",
-    "updatedAt":  "2026-08-06T18:28:54.0215852Z",
+    "online":  false,
+    "endpoint":  "",
+    "updatedAt":  "2026-08-06T18:30:09.5978225Z",
     "source":  "Comfy Mobile Center"
 }
