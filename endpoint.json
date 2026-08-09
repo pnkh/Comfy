@@ -1,7 +1,7 @@
 {
     "version":  1,
-    "online":  true,
-    "endpoint":  "https://rules-interactive-celebs-specialty.trycloudflare.com",
-    "updatedAt":  "2026-08-09T14:06:31.5649550Z",
+    "online":  false,
+    "endpoint":  "",
+    "updatedAt":  "2026-08-09T15:59:07.9518339Z",
     "source":  "Comfy Mobile Center"
 }
