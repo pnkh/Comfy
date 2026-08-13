@@ -1,7 +1,7 @@
 {
     "version":  1,
-    "online":  false,
-    "endpoint":  "",
-    "updatedAt":  "2026-08-13T14:46:31.2574254Z",
+    "online":  true,
+    "endpoint":  "https://favourite-refine-grill-fireplace.trycloudflare.com",
+    "updatedAt":  "2026-08-13T15:03:04.0696356Z",
     "source":  "Comfy Mobile Center"
 }
