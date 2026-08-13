@@ -1,7 +1,7 @@
 {
     "version":  1,
-    "online":  true,
-    "endpoint":  "https://volunteers-wing-oscar-lit.trycloudflare.com",
-    "updatedAt":  "2026-08-13T13:41:59.7170446Z",
+    "online":  false,
+    "endpoint":  "",
+    "updatedAt":  "2026-08-13T13:42:13.7225576Z",
     "source":  "Comfy Mobile Center"
 }
