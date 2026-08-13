@@ -1,7 +1,7 @@
 {
     "version":  1,
-    "online":  true,
-    "endpoint":  "https://condition-climb-personnel-street.trycloudflare.com",
-    "updatedAt":  "2026-08-13T13:42:23.7639120Z",
+    "online":  false,
+    "endpoint":  "",
+    "updatedAt":  "2026-08-13T14:46:31.2574254Z",
     "source":  "Comfy Mobile Center"
 }
