@@ -1,7 +1,7 @@
 {
     "version":  1,
-    "online":  true,
-    "endpoint":  "https://appraisal-cord-booking-margaret.trycloudflare.com",
-    "updatedAt":  "2026-08-13T05:35:47.7114595Z",
+    "online":  false,
+    "endpoint":  "",
+    "updatedAt":  "2026-08-13T13:41:27.1125896Z",
     "source":  "Comfy Mobile Center"
 }
