@@ -1,7 +1,7 @@
 {
     "version":  1,
-    "online":  true,
-    "endpoint":  "https://introduce-atmospheric-analytical-radical.trycloudflare.com",
-    "updatedAt":  "2026-08-19T10:59:07.1433295Z",
+    "online":  false,
+    "endpoint":  "",
+    "updatedAt":  "2026-08-19T17:15:45.6927632Z",
     "source":  "Comfy Mobile Center"
 }
