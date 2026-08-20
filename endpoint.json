@@ -1,7 +1,7 @@
 {
     "version":  1,
-    "online":  false,
-    "endpoint":  "",
-    "updatedAt":  "2026-08-19T17:15:45.6927632Z",
+    "online":  true,
+    "endpoint":  "https://opt-barely-collection-gerald.trycloudflare.com",
+    "updatedAt":  "2026-08-20T06:03:08.4591783Z",
     "source":  "Comfy Mobile Center"
 }
