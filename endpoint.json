@@ -1,7 +1,7 @@
 {
     "version":  1,
-    "online":  true,
-    "endpoint":  "https://roland-buyer-prayers-committees.trycloudflare.com",
-    "updatedAt":  "2026-08-28T03:10:55.9450039Z",
+    "online":  false,
+    "endpoint":  "",
+    "updatedAt":  "2026-08-28T03:11:02.3164966Z",
     "source":  "Comfy Mobile Center"
 }
