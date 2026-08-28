@@ -1,7 +1,7 @@
 {
     "version":  1,
-    "online":  false,
-    "endpoint":  "",
-    "updatedAt":  "2026-08-28T03:11:07.6361076Z",
+    "online":  true,
+    "endpoint":  "https://reached-hypothetical-appraisal-sin.trycloudflare.com",
+    "updatedAt":  "2026-08-28T03:11:19.9005929Z",
     "source":  "Comfy Mobile Center"
 }
