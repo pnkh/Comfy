@@ -1,7 +1,7 @@
 {
     "version":  1,
-    "online":  false,
-    "endpoint":  "",
-    "updatedAt":  "2026-08-24T13:54:45.2853106Z",
+    "online":  true,
+    "endpoint":  "https://shoot-thinkpad-bite-deviation.trycloudflare.com",
+    "updatedAt":  "2026-08-28T01:09:55.9713764Z",
     "source":  "Comfy Mobile Center"
 }
