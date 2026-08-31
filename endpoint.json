@@ -1,7 +1,7 @@
 {
     "version":  1,
-    "online":  true,
-    "endpoint":  "https://rotation-forests-finishing-sean.trycloudflare.com",
-    "updatedAt":  "2026-08-31T16:12:29.5094638Z",
+    "online":  false,
+    "endpoint":  "",
+    "updatedAt":  "2026-08-31T16:23:35.2627296Z",
     "source":  "Comfy Mobile Center"
 }
