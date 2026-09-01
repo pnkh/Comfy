@@ -1,7 +1,7 @@
 {
     "version":  1,
-    "online":  true,
-    "endpoint":  "https://loaded-wheel-indicates-stating.trycloudflare.com",
-    "updatedAt":  "2026-08-31T19:18:09.5199690Z",
+    "online":  false,
+    "endpoint":  "",
+    "updatedAt":  "2026-09-01T08:36:58.5952521Z",
     "source":  "Comfy Mobile Center"
 }
