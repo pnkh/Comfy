@@ -1,7 +1,7 @@
 {
     "version":  1,
-    "online":  false,
-    "endpoint":  "",
-    "updatedAt":  "2026-09-01T08:36:58.5952521Z",
+    "online":  true,
+    "endpoint":  "https://mon-integral-shark-duncan.trycloudflare.com",
+    "updatedAt":  "2026-09-03T07:28:31.2188576Z",
     "source":  "Comfy Mobile Center"
 }
