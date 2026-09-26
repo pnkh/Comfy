@@ -1,7 +1,7 @@
 {
     "version":  1,
-    "online":  true,
-    "endpoint":  "https://perhaps-viewed-jazz-barriers.trycloudflare.com",
-    "updatedAt":  "2026-09-26T07:30:28.7244335Z",
+    "online":  false,
+    "endpoint":  "",
+    "updatedAt":  "2026-09-26T16:01:49.8580966Z",
     "source":  "Comfy Mobile Center"
 }
