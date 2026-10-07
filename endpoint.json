@@ -1,7 +1,7 @@
 {
     "version":  1,
-    "online":  false,
-    "endpoint":  "",
-    "updatedAt":  "2026-09-26T16:01:49.8580966Z",
+    "online":  true,
+    "endpoint":  "https://zealand-champion-members-imagination.trycloudflare.com",
+    "updatedAt":  "2026-10-07T19:18:47.7911595Z",
     "source":  "Comfy Mobile Center"
 }
